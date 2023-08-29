@@ -1,0 +1,106 @@
+.header{
+    background-color: cornflowerblue;
+}
+
+.box{
+    background-color:palevioletred ;
+    height: 550px;
+    width: 880px;
+    margin: auto;
+    padding: 3%;
+    text-align: center;
+}
+
+.container{
+    background-color: brown;
+    height: 100px;
+    width:80%;
+    margin:auto;
+    }
+
+.txt-2{
+    border-color:black;
+    margin: auto;
+    color:blanchedalmond;
+    margin-top: 25px;
+    }
+
+.To-do{
+    height: 25px;
+    width: 80%;
+}
+.txt{
+    height:25px ;
+    width:60px;
+    color:black;
+}
+.list{
+    height:25px;
+    width:65px;
+    text-align: center;
+}
+
+
+.clear-items{
+    color: red;
+    position: absolute;
+    bottom: 30%;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.para{
+    color:springgreen;
+    position:absolute;
+    bottom:30%;
+    padding: 3%;
+    width: 55%;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: larger;
+    background-color: crimson;
+    margin-left: 90px;
+}
+.image{
+    display:flex;
+}
+
+#btn{
+    margin-left: 60%;
+    display: flex;
+    height:35px;
+    width: 35px;
+}
+
+.edit-btn{
+    height:25px;
+    width:55px;
+}
+.delete-btn{
+height: 25px;
+width: 55px;
+}
+#list-items{
+    background-color:bisque;
+    height:200px;
+    width:720px;
+    margin-top: 10%;
+    margin-bottom: 30%;
+    margin-left: 10%;
+}
+
+.itemContainer{
+    display: flex;
+    margin:20px;
+    justify-content: space-between;
+}
+
+.itemContainer:hover{
+    background-color: white;
+}
+.btn-Container{
+   float: right;
+}
+.itemText{
+    margin: 0;
+}
